@@ -2,7 +2,7 @@ name = "vless-cf" # todo
 #name = "cf-worker-connect-test" # todo
 #main = "test/worker/cf-cdn-cgi-trace2.js"
 #main = "test/worker/worker-connect-test.js"
-main = "_worker.js"
+main = "worker_obfuscates.js"
 compatibility_date = "2025-02-24"
 
 [vars]
